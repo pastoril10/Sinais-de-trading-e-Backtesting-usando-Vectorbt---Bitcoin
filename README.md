@@ -1,0 +1,1 @@
+# Sinais-de-trading-e-Backtesting-usando-Vectorbt---Bitcoin
